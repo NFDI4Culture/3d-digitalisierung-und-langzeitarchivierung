@@ -1,4 +1,4 @@
-## Erstellung, Nutzung und Handhabung von 3D-Modellen – Umfrageergebnisse aus der NFDI4Culture Community
+## 3D-Digitalisierung und Langzeitarchivierung – Umfrageergebnisse aus der NFDI4Culture Community
 
 von Jörg Heseler <a href="https://orcid.org/0000-0002-1497-627X"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>, Matthias Arnold <a href="https://orcid.org/0000-0003-0876-6177"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>, Alexandra Büttner <a href="https://orcid.org/0000-0002-4950-0941"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>, und Simon Worthington <a href="https://orcid.org/0000-0002-8579-9717"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>
 
