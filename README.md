@@ -4,7 +4,7 @@ von Jörg Heseler <a href="https://orcid.org/0000-0002-1497-627X"><img alt="ORCI
 
 v1.0
 
- > Englische Version: [Creation, Use and Handling of 3D Models – Survey Results from the NFDI4Culture Community](https://nfdi4culture.github.io/3d-survey-results-en/)
+ > Englische Version: [3D Digitisation and Preservation – Survey Results from the NFDI4Culture Community]([https://nfdi4culture.github.io/3d-survey-results-en/](https://nfdi4culture.github.io/3d-digitisation-and-preservation/))
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="cover/cover-small.jpg">
