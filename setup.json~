@@ -1,0 +1,6 @@
+{
+  "__comment": "Set values to false if no link should be created.",
+  "repoURL": "https://github.com/NFDI4Culture/3d-umfrageergebnisse-de",
+  "repoBranch": "main",
+  "vivlioURL": "https://vivliostyle.vercel.app/"
+}
