@@ -4,6 +4,7 @@ von Jörg Heseler <a href="https://orcid.org/0000-0002-1497-627X"><img alt="ORCI
 
 v1.0
 
+ > Deutsche Version: [3D-Digitalisierung und Langzeitarchivierung – Umfrageergebnisse aus der NFDI4Culture Community](https://nfdi4culture.github.io/3d-digitalisierung-und-langzeitarchivierung/)
  > Englische Version: [3D Digitisation and Preservation – Survey Results from the NFDI4Culture Community](https://nfdi4culture.github.io/3d-digitisation-and-preservation/)
 
 <picture>
