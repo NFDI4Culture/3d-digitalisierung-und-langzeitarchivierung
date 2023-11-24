@@ -172,7 +172,7 @@ body {
   background-size: 210mm 297mm;
   display: flex;
   margin-top: 297mm;
-  page-break-after: always;
+  page-break-after: none!important;
     @bottom-left { content: normal; }
     @bottom-center { content: normal; }
 	@bottom-right { content: normal; }
@@ -357,8 +357,8 @@ nav {
   margin: 2em 0;
   break-before: none;
   page-break-before: none;
-  break-after: always;
-  page-break-after: always;
+  break-after: always!important;
+  page-break-after: always!important;
   width: 80%;
   font-family: "Roboto Slab", sans-serif;
 }
@@ -403,7 +403,6 @@ nav li ol li {
 nav li ol li ol li ol li {
   display: none;
 }
-
 
 nav li a::after {
  text-align: right;
