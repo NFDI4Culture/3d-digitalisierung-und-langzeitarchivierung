@@ -347,7 +347,7 @@ video {
   color: #000;
 }
 nav::before {
-  content: "Contents";
+  content: "Inhalt";
   font-family: "Playfair Display", serif;
   font-size: 55px;
   color: #111111;
@@ -355,8 +355,10 @@ nav::before {
 }
 nav {
   margin: 2em 0;
-  break-before: always;
-  page-break-before: always;
+  break-before: none;
+  page-break-before: none;
+  break-after: always;
+  page-break-after: always;
   width: 80%;
   font-family: "Roboto Slab", sans-serif;
 }
@@ -516,7 +518,7 @@ h1.part:before {
   letter-spacing: 0pt;
   word-spacing: 1px;
   font-weight: 600;
-  max-width: 70%;
+  max-width: 90%;
 }
 
 .article-title strong { font-weight: 600;}
