@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@id": "https://doi.org/10.5281/zenodo.8033536",
+  "@type": "https://schema.org/ScholarlyArticle",
+  "identifier": "https://doi.org/10.5281/zenodo.8033536",
+  "name": "3D-Digitalisierung und Langzeitarchivierung – Umfrageergebnisse aus der NFDI4Culture Community",
+  "creator": [
+    {
+      "name": "Jörg Heseler",
+      "familyName": "Jörg Heseler",
+      "@id": "https://orcid.org/0000-0002-1497-627X",
+      "@type": "Person"
+    },
+    {
+      "name": "Matthias Arnold",
+      "familyName": "Matthias Arnold",
+      "@id": "https://orcid.org/0000-0003-0876-6177",
+      "@type": "Person"
+    },
+    {
+      "name": "Alexandra Büttner",
+      "familyName": "Alexandra Büttner",
+      "@id": "https://orcid.org/0000-0002-4950-0941",
+      "@type": "Person"
+    },
+    {
+      "name": "Simon Worthington",
+      "familyName": "Simon Worthington",
+      "@id": "https://orcid.org/0000-0002-8579-9717",
+      "@type": "Person"
+    }
+  ],
+  "author": [
+    {
+      "name": "Jörg Heseler",
+      "familyName": "Jörg Heseler",
+      "@id": "https://orcid.org/0000-0002-1497-627X",
+      "@type": "Person"
+    },
+    {
+      "name": "Matthias Arnold",
+      "familyName": "Matthias Arnold",
+      "@id": "https://orcid.org/0000-0003-0876-6177",
+      "@type": "Person"
+    },
+    {
+      "name": "Alexandra Büttner",
+      "familyName": "Alexandra Büttner",
+      "@id": "https://orcid.org/0000-0002-4950-0941",
+      "@type": "Person"
+    },
+    {
+      "name": "Simon Worthington",
+      "familyName": "Simon Worthington",
+      "@id": "https://orcid.org/0000-0002-8579-9717",
+      "@type": "Person"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "keywords": "NFDI4Culture, Umfrage, 3D-Modell, 3D-Objekt, digitale Langzeitarchivierung, Digitalisierung, Forschungsdaten, Metadatenschema, Dateiformat",
+  "datePublished": "2023-12-15",
+  "dateModified": "2023-11-27T10:12:21.589057+00:00",
+  "inLanguage": {
+    "alternateName": "deu",
+    "@type": "Language",
+    "name": "German"
+  },
+  "contentSize": "1.18 MB",
+  "version": "1.0.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+  "description": "<p>Eines der Projektziele von <a href=\"https://nfdi4culture.de/\">NFDI4Culture – Konsortium für Forschungsdaten materieller und immaterieller Kulturgüter</a> und speziell der <a href=\"https://nfdi4culture.de/de/ueber-uns/aufgabenbereiche/aufgabenbereich-4.html\">Task Area Datenpublikation und Langzeitarchivierung</a>&nbsp;(TA4) ist die Entwicklung von Konzepten für zentrale Langzeitarchivierungsdienste zur Sicherstellung einer nachhaltigen Infrastruktur. Dabei stehen insbesondere Publikationen aus kulturellen Disziplinen mit 3D-Daten im Vordergrund. Die Entwicklung solcher Konzepte setzt die Kenntnis der Bedürfnisse der Produzierenden, Anbietenden und Verwaltenden von Forschungsdaten voraus. Zur Bedarfsermittlung wurde eine Umfrage zur Erstellung, Nutzung und Handhabung von 3D-Modellen durchgeführt, deren Ergebnisse im Folgenden diskutiert werden.</p>",
+  "funding": [
+    {
+      "funder": {
+        "@type": "Organization",
+        "@id": "018mejw64",
+        "name": "Deutsche Forschungsgemeinschaft"
+      },
+      "name": "NFDI4Culture – Konsortium für Forschungsdaten zu materiellen und immateriellen Kulturgütern (441958017)",
+      "url": {
+        "identifier": "https://gepris.dfg.de/gepris/projekt/441958017?context=projekt&task=showDetail&id=441958017&",
+        "scheme": "url"
+      }
+    }
+  ],
+  "url": "https://zenodo.org/uploads/8033536"
+}

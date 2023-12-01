@@ -1,0 +1,34 @@
+{
+  "DOI": "10.5281/zenodo.8033536",
+  "abstract": "Eines der Projektziele von NFDI4Culture \u2013 Konsortium f\u00fcr Forschungsdaten materieller und immaterieller Kulturg\u00fcter und speziell der Task Area Datenpublikation und Langzeitarchivierung\u00a0(TA4) ist die Entwicklung von Konzepten f\u00fcr zentrale Langzeitarchivierungsdienste zur Sicherstellung einer nachhaltigen Infrastruktur. Dabei stehen insbesondere Publikationen aus kulturellen Disziplinen mit 3D-Daten im Vordergrund. Die Entwicklung solcher Konzepte setzt die Kenntnis der Bed\u00fcrfnisse der Produzierenden, Anbietenden und Verwaltenden von Forschungsdaten voraus. Zur Bedarfsermittlung wurde eine Umfrage zur Erstellung, Nutzung und Handhabung von 3D-Modellen durchgef\u00fchrt, deren Ergebnisse im Folgenden diskutiert werden.",
+  "author": [
+    {
+      "family": "J\u00f6rg Heseler"
+    },
+    {
+      "family": "Matthias Arnold"
+    },
+    {
+      "family": "Alexandra B\u00fcttner"
+    },
+    {
+      "family": "Simon Worthington"
+    }
+  ],
+  "id": "8033536",
+  "issued": {
+    "date-parts": [
+      [
+        "2023",
+        "12",
+        "15"
+      ]
+    ]
+  },
+  "language": "deu",
+  "note": "Funding by Deutsche Forschungsgemeinschaft ROR 018mejw64.",
+  "publisher": "Zenodo",
+  "title": "3D-Digitalisierung und Langzeitarchivierung \u2013 Umfrageergebnisse aus der NFDI4Culture Community",
+  "type": "article",
+  "version": "1.0.0"
+}

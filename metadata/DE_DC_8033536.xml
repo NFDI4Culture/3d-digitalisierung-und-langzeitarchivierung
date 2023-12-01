@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Jörg Heseler</dc:creator>
+  <dc:creator>Matthias Arnold</dc:creator>
+  <dc:creator>Alexandra Büttner</dc:creator>
+  <dc:creator>Simon Worthington</dc:creator>
+  <dc:date>2023-12-15</dc:date>
+  <dc:description>&amp;lt;p&amp;gt;Eines der Projektziele von &amp;lt;a href="https://nfdi4culture.de/"&amp;gt;NFDI4Culture – Konsortium für Forschungsdaten materieller und immaterieller Kulturgüter&amp;lt;/a&amp;gt; und speziell der &amp;lt;a href="https://nfdi4culture.de/de/ueber-uns/aufgabenbereiche/aufgabenbereich-4.html"&amp;gt;Task Area Datenpublikation und Langzeitarchivierung&amp;lt;/a&amp;gt;&amp;nbsp;(TA4) ist die Entwicklung von Konzepten für zentrale Langzeitarchivierungsdienste zur Sicherstellung einer nachhaltigen Infrastruktur. Dabei stehen insbesondere Publikationen aus kulturellen Disziplinen mit 3D-Daten im Vordergrund. Die Entwicklung solcher Konzepte setzt die Kenntnis der Bedürfnisse der Produzierenden, Anbietenden und Verwaltenden von Forschungsdaten voraus. Zur Bedarfsermittlung wurde eine Umfrage zur Erstellung, Nutzung und Handhabung von 3D-Modellen durchgeführt, deren Ergebnisse im Folgenden diskutiert werden.&amp;lt;/p&amp;gt;</dc:description>
+  <dc:description>&amp;lt;p&amp;gt;Englische Version: &amp;lt;a href="https://nfdi4culture.github.io/3d-digitisation-and-preservation/"&amp;gt;https://nfdi4culture.github.io/3d-digitisation-and-preservation/&amp;lt;/a&amp;gt;&amp;lt;/p&amp;gt;</dc:description>
+  <dc:identifier>https://doi.org/10.5281/zenodo.8033536</dc:identifier>
+  <dc:language>deu</dc:language>
+  <dc:publisher>Zenodo</dc:publisher>
+  <dc:relation>https://doi.org/10.5281/zenodo.8033413</dc:relation>
+  <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+  <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+  <dc:rights>https://creativecommons.org/licenses/by/4.0/legalcode</dc:rights>
+  <dc:subject>NFDI4Culture</dc:subject>
+  <dc:subject>Umfrage</dc:subject>
+  <dc:subject>3D-Modell</dc:subject>
+  <dc:subject>3D-Objekt</dc:subject>
+  <dc:subject>digitale Langzeitarchivierung</dc:subject>
+  <dc:subject>Digitalisierung</dc:subject>
+  <dc:subject>Forschungsdaten</dc:subject>
+  <dc:subject>Metadatenschema</dc:subject>
+  <dc:subject>Dateiformat</dc:subject>
+  <dc:title>3D-Digitalisierung und Langzeitarchivierung – Umfrageergebnisse aus der NFDI4Culture Community</dc:title>
+  <dc:type>info:eu-repo/semantics/report</dc:type>
+</oai_dc:dc>
